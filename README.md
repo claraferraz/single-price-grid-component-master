@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/solution-desktop.png)
-![](images/solution-mobile.png)
+![](Assets/solution-desktop.png)
+![](Assets/solution-mobile.png)
 
 ### Links
 
